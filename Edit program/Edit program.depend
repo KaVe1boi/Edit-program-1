@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697097378 source:c:\users\kimth\onedrive - herningsholm erhvervsskole\herningsholm\2.g\it\codeblock\test project\codesource\test console\edit program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
